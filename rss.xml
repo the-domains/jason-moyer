@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Photographer / Creative Director ]]></title>
         <description><![CDATA[Photographer / Creative Director ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jason-moyer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:09:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 17:12:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jason-moyer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Jason]]></title>
             <description><![CDATA[<article><h1>About Jason</h1><p>Jason Moyer is an artist and design professional with extensive experience and solid achievement in marketing, design, and creative development. Jason has combined his fine art background, photography with his passion and enthusiasm for marketing and branding bringing brands and clients’ ideas to life through stellar creative design. He has been the creative lead on several kinds of projects, bringing his leadership and team-building skills to overcome design challenges. From envisioning the big picture to follow-through on the smallest details, Jason brings professionalism, creativity, latitude and ethics to every endeavor he takes on.</p></article>]]></description>
-            <link>undefinedabout-jason/index.html</link>
+            <link>https://thegrid.ai/jason-moyer/about-jason/index.html</link>
             <guid isPermaLink="false">dd56767d-7100-4884-b2fb-0484bedcf9d5</guid>
-            <pubDate>Mon, 21 Dec 2015 17:09:39 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 17:12:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
