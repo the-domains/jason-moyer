@@ -4,7 +4,7 @@
         <description><![CDATA[Photographer / Creative Director ]]></description>
         <link>https://thegrid.ai/jason-moyer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 20:47:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jason-moyer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Jason]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jason-moyer/about-jason/index.html</link>
             <guid isPermaLink="false">dd56767d-7100-4884-b2fb-0484bedcf9d5</guid>
             <pubDate>Mon, 21 Dec 2015 17:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abstract Photographic Art]]></title>
+            <description><![CDATA[<article><h1>Abstract Photographic Art</h1><p>abstract photography</p><img src="http://moyerdesignart.zenfolio.com/img/s2/v59/p1643141069-4.jpg"></article>]]></description>
+            <link>http://moyerdesignart.zenfolio.com/blog/2015/12/abstract-photographic-art</link>
+            <guid isPermaLink="false">a37995da-7f24-4197-84f1-23c68f37f2de</guid>
+            <pubDate>Mon, 21 Dec 2015 20:47:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
