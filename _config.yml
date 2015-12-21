@@ -1,7 +1,7 @@
 name: jason-moyer
 favicon: null
-layout_spectrum: 0.052969651529565454
-typography_spectrum: 0.973747156560421
+layout_spectrum: 1
+typography_spectrum: 0.92507
 title: 'Photographer / Creative Director '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.15890609589405358
+    - '#020202'
+    - '#434343'
+    - '#939393'
+    - '#fdfdfd'
+    - '#d5d5d5'
+  brandStrength: 1
   lightness: 0.9431065449025482
-  saturation: 0.31015292718075216
+  saturation: 0
   rhythmicContrast: 0.6365862290840596
 purpose: []
