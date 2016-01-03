@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T22:44:20.384Z'
-dateModified: '2015-12-21T22:44:04.506Z'
+datePublished: '2016-01-03T22:53:13.406Z'
+dateModified: '2016-01-03T22:53:09.288Z'
 title: About Jason
 author: []
 sourcePath: _posts/2015-12-21-about-jason.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: about-jason/index.html
-_type: Article
+_type: WebPage
 
 ---
 Jason Moyer is an artist and design professional with extensive experience and solid achievement in marketing, design, and creative development. Jason has combined his fine art background, photography with his passion and enthusiasm for marketing and branding bringing brands and clients' ideas to life through stellar creative design. He has been the creative lead on several kinds of projects, bringing his leadership and team-building skills to overcome design challenges. From envisioning the big picture to follow-through on the smallest details, Jason brings professionalism, creativity, latitude and ethics to every endeavor he takes on.
