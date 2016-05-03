@@ -1,29 +1,41 @@
-name: jason-moyer
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
 title: 'Photographer / Creative Director '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4699248
+  brandStrength: 0.0625
+  lightness: 0
+  brandColors:
+    - '#000000'
+    - '#E2E2E2'
+    - '#ACACAE'
+    - '#8A898E'
+    - '#3E3D4B'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: jason-moyer
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#c0cec3'
-    - '#fe5833'
-    - '#37252d'
-    - '#6a5e60'
-    - '#a03210'
-  brandStrength: 0.0625
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.1358754
+layout_spectrum: 0.8974221
