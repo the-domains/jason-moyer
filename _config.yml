@@ -1,7 +1,7 @@
 name: jason-moyer
 favicon: null
-layout_spectrum: 0.8974221
-typography_spectrum: 0.1358754
+layout_spectrum: 0
+typography_spectrum: 0.05979
 title: Design - Photography - Adventure
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#ACACAE'
     - '#8A898E'
     - '#3E3D4B'
-  brandStrength: 0.0625
+  brandStrength: 0.5
   lightness: 0
-  saturation: 0.4699248
+  saturation: 0
   rhythmicContrast: 0.75
 purpose: []
