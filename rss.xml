@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Photographer / Creative Director ]]></title>
+        <description><![CDATA[Photographer / Creative Director ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 16:29:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Backyard Vibes ]]></title>
+            <description><![CDATA[<article><h1>Backyard Vibes </h1><p>Hanging out enjoying the weather!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d2417159034b055682016b283813d037/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb84b1a9b-724d-48d9-831c-a50ac3a013c5.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b84b1a9b-724d-48d9-831c-a50ac3a013c5.jpg</link>
+            <guid isPermaLink="false">dc1738c3-d359-43f3-aa9c-83ec3984b2c4</guid>
+            <pubDate>Thu, 04 Aug 2016 16:28:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
